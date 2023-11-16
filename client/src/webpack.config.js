@@ -7,7 +7,7 @@ module.exports = () => {
   return {
     mode: "development",
     entry: {
-      main: "./src/js/index.js",
+      main: "./js/index.js",
       install: "./src/js/install.js",
     },
     output: {
